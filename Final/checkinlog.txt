@@ -1,0 +1,5 @@
+studentID:(288044),TimeInBathroom(0.10 minutes),TimeOfCheckin(18:10:07)
+studentID:(97702),TimeInBathroom(0.10 minutes),TimeOfCheckin(18:10:23)
+studentID:(awg),timeinbathroom(0.04 minutes),timeofcheckin(18:13:10)
+studentID:(46234),timeinbathroom(0.09 minutes),timeofcheckin(18:16:18)
+studentID:(1465146),timeinbathroom(0.03 minutes),timeofcheckin(18:16:56)
