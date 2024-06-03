@@ -1,0 +1,8 @@
+5/23/24 2:28 - 3:00 --- making a qr code scanner with a storage data and when you scan the student id will be entered and you can go in the bathroom
+5/23/24 3:00 - 3:45 --- halfway done with my structure of code
+5/24/24 5:12 - 3:45 --- finished the blueprint of the schematic structure of my code
+5/29/24 1:28 - 2:15 --- fixed code structure
+5/30/24 2:28 - 3:45 --- finished the basic calling the data (calling one of the line will print the student id and there name.)
+6/1/24 4:10 - 7:31 --- learned about messagebox in tkinter and inputed it into my code
+6/2/24 4:00 - 7:00 --- finished the main student id checkin/out code for my project
+6/3/24 2:28 - 3:45 --- brainstorming project to see what i can come up with to resolve all issues
