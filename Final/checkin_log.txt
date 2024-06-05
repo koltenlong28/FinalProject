@@ -1,1 +1,1 @@
-Student ID: 288038, Check-In: 18:07:35, Check-Out: 18:07:51, Duration: 15.26 seconds
+studentid:(123456),timeinbathroom(0.04 minutes),timeofcheckin(22:09:18)
