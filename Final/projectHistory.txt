@@ -7,4 +7,8 @@
 6/2/24 4:00 - 7:00 --- finished the main student id checkin/out code for my project
 6/3/24 2:28 - 3:45 --- brainstorming project to see what i can come up with to resolve all issues finished the student ID code
 6/4/24 4:26 - 11:45 --- i made a cool font and color for the tkinter and finished the security logger using tkinter and a new scroll module found in tkinters imports. this took along time and i wanna cry because of how much time i spent on this. but was worth it
+6/5/24 1:16 - 2:15 --- fixed the live updating for the code so now i dont have to rerun for it to actually update.
+6/5/24 2:56 - 4:21 --- fixed the live updating for the code so now i dont have to rerun for it to actually update.
+6/6/24 11:54 - 2:46 --- made the teacher UI file but having issues with it changing color and adding the students.
+6/6/24 5:12 - 9:42 --- finished the teacher UI works flawlessly and i am happy it works. will add a button so you can create/save class periods.
 19 hours and 51 minutes of total info
