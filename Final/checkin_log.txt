@@ -1,1 +1,0 @@
-studentid:(123456),timeinbathroom(0.04 minutes),timeofcheckin(22:09:18)
