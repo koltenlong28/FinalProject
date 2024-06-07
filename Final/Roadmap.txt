@@ -1,0 +1,4 @@
+make the office UI
+when finished fix any bugs/issues found in the code
+start working on the website
+website has 5 tabs 
