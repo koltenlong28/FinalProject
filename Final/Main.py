@@ -97,7 +97,7 @@ class StudentCheckInSystem:
         checkouttime = time.strftime('%H:%M:%S', time.localtime(endtime))
 
         if durationminutes > 7:
-            self.studentdata[studentid][1]['bathroomviolations'] += 1
+            self.studentdata[studentid][1]['BathroomViolations'] += 1
             self.studentdata[studentid] = (self.studentdata[studentid][0], self.studentdata[studentid][1], True)
 
         with open('checkinlog.txt', 'a') as file:

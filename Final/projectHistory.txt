@@ -11,4 +11,6 @@
 6/5/24 2:56 - 4:21 --- fixed the live updating for the code so now i dont have to rerun for it to actually update.
 6/6/24 11:54 - 2:46 --- made the teacher UI file but having issues with it changing color and adding the students.
 6/6/24 5:12 - 9:42 --- finished the teacher UI works flawlessly and i am happy it works. will add a button so you can create/save class periods.
+6/7/24 1:16 - 2:00 --- fixed the bathroom excuses not updating and added a classes button
+
 19 hours and 51 minutes of total info

@@ -30,7 +30,18 @@ class TeacherUI:
         
         self.addstudentbutton = tk.Button(self.root, text="add student", command=self.addstudent, font=fontstyle, bg="#363e4a", fg="white")
         self.addstudentbutton.grid(row=0, column=1, padx=10, pady=10)
+        self.classbutton = tk.Button(self.root, text="classes", command=self.classes, font=fontstyle, bg="#363e4a", fg="white")
+        self.classbutton.grid(row=0, column=2, padx=00, pady=10)
 
+
+    def classes(self):
+            studentid = self.addstudententry.get()
+            if not studentid.isdigit():
+                messagebox.showerror("error", "not working")
+                return
+            
+
+        
     def addstudent(self):
         studentid = self.addstudententry.get()
         if not studentid.isdigit():
@@ -70,7 +81,7 @@ class TeacherUI:
                 if statusinfo["starttime"] is not None:
                     elapsedtime = time.time() - statusinfo["starttime"]
                     newstatus = "grey"
-                    if elapsedtime >= 420:  # 7 minutes in seconds
+                    if elapsedtime >= 600:  # 10 minutes in seconds
                         newstatus = "#de3c3c"
                     elif elapsedtime >= 300:  # 5 minutes in seconds
                         newstatus = "#decb3c"

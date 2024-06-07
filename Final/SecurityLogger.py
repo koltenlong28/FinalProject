@@ -72,7 +72,7 @@ class StudentInfoApp:
                         name = match.group(2)
                         history = match.group(3)
                         timeout = match.group(4)
-                        return f"mame: {name}\nhistory: {history}\ntimeout: {timeout}"
+                        return f"name: {name}\nhistory: {history}\ntimeout: {timeout}"
 
         except FileNotFoundError:
             messagebox.showerror("error", "StudentID.txt file not found")
@@ -113,7 +113,7 @@ class StudentInfoApp:
             messagebox.showerror("error", "please enter a valid student ID")
             return
 
-        timeoutduration = 6000
+        timeoutduration = 200000
         self.timeoutstudents[studentid] = time.time() + timeoutduration
 
         self.updatetimeoutstatus(studentid, True)
