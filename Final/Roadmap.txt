@@ -1,4 +1,6 @@
 make the office UI
+make the security algorithm code.
 when finished fix any bugs/issues found in the code
 start working on the website
-website has 5 tabs 
+website has 4 tabs that contribute to my codes
+website will use pyscript to impliment the code on the web https://blog.logrocket.com/pyscript-run-python-browser/#:~:text=With%20PyScript%2C%20you%20can%20either,running%20Python%20in%20the%20backend.
